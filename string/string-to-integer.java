@@ -1,6 +1,6 @@
 //8. String to Integer (atoi)
 
-// Skip leading spaces, check the sign, and build the number digit by digit.
+// Skip leading spaces, check the sign, and build the number digit by digit. iterated from the start to the end of the string, no need of a loop here
 // Use long to detect overflow, then clamp the result to the integer range.
 // Time: O(n) | Space: O(1)
 
